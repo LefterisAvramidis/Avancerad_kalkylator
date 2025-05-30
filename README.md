@@ -19,7 +19,7 @@ Detta är ett JavaFX-baserat kalkylatorprojekt byggt som ett examensarbete av Le
    Main.java controller/*.java model/*.java view/*.java utils/*.java
 
 # KÖR PROJEKTET 
-
+```bash
 java -cp ".:lib/exp4j-0.4.8.jar" \
 --module-path /sökväg/till/javafx-sdk/lib \
 --add-modules javafx.controls,javafx.fxml \
